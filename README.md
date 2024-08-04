@@ -3,6 +3,12 @@
 
 Este es el repositorio del curso de Deep Learning del DCC - Uchile.
 
+Clase original de [Ivan Sipiran](https://github.com/ivansipiran).
+
+## Calendario Semestre Primavera 2024
+Profesor: Valentin Barriere
+Contenido: [Aca](./cal_S1.md)
+
 ## Contenido
 * Introducción [Slides](./Slides/1_Introduccion.pdf)
 * Perceptrón, Gradiente descendiente [Slides](./Slides/2_Perceptron_GD.pdf)
