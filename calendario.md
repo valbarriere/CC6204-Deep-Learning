@@ -7,13 +7,19 @@
 
 The content of the classes, specially the most advance ones (Weeks 8 and after) is **very likely to change**. My idea is to add classes on several possible topics: classical language modeling, audio models (audio speech recognition, general models), multimodal models (classical ones, CLIP, Diffusion, LLM-based), large text generative models (emerging abilities, instructions, alignments, in context learning, chain of thoughts, agent, RAG), efficiency and how to train/deploy an LLM on a small budget (parameter efficient fine tuning, quantization, optimized specific libraries like vLLM). **Please tell me what you think on the discord channel!**
 
+**UPDATE:** After analyzing the results of the poll, we will have classes on the following subjects: 
+* Modelos de Lenguaje
+* Modelos de Lenguaje Largos generativos
+* Modelos Multimodales
+* Efficiency
+
 
 |  Semana  | Fechas        | Actividades                                                  | Slides | Trabajo graduado          |
 | :------: | :------------ | :----------------------------------------------------------- | :----: | :--------------:          |
 |    1     | 05/08 - 11/08 | **Miércoles 07/08 - 16:15 hrs**: Introducción    |    [Intro](./Slides_v2/1_Introduction.pdf)    |                           |
 |    2     | 12/08 - 18/08 | **Lunes 12/08 - 16:15 hrs**: Perceptron, Gradiente Descendiente <br/> **Miércoles 14/08 - 16:15 hrs**: SGD, Backpropagation, Funciones de activación |  [Perceptron y SDG](./Slides/2_Perceptron_GD.pdf) <br/> [Backpropagation](./Slides/3_Backpropagation.pdf) <br/> [Encuesta Clases](./Slides_v2/1.1_Encuesta.pdf)   |                           |
-|    3     | 19/08 - 25/08 | **Lunes 19/08 - 16:15 hrs**: Laboratorio 1 <br/> **Miércoles 21/08 - 16:15 hrs**: Multi-clase, softmax |   [Softmax, Multi-clase y Cross-entropy](./Slides/4_Softmax_CEL.pdf)   |
-|    4     | 26/08 - 01/09 | **Lunes 26/08 - 16:15 hrs**: Laboratorio 2 <br/> **Miércoles 28/08 - 16:15 hrs**: Weight initialization |        | 27/08 T_1 Enunciado       |
+|    3     | 19/08 - 25/08 | **Lunes 19/08 - 16:15 hrs**: Laboratorios 1/2 <br/> **Miércoles 21/08 - 16:15 hrs**: Multi-clase, softmax |   [Softmax, Multi-clase y Cross-entropy](./Slides/4_Softmax_CEL.pdf)   |
+|    4     | 26/08 - 01/09 | **Lunes 26/08 - 16:15 hrs**: Weight initialization <br/> **Miércoles 28/08 - 16:15 hrs**: DIA LIBRE |   [Weight initialization](./Slides/5_Initialization_optimization.pdf)     | 27/08 T_1 Enunciado       |
 |    5     | 02/09 - 08/09 | **Lunes 02/09 - 16:15 hrs**: Laboratorio 3 <br/> **Miércoles 04/09 - 16:15 hrs**: Algoritmos de optimización |        |                           |
 |    6     | 09/09 - 15/09 | **Lunes 09/09 - 16:15 hrs**: Laboratorio 4 <br/> **Miércoles 11/09 - 16:15 hrs**: Convolución, ideas |        | 10/09 T_1 Entrega <br> 10/09 T_2 Enunciado |
 |         | 16/09 - 22/09 | **RECESO ACADÉMICO**                                         |        |                           |
@@ -25,9 +31,9 @@ The content of the classes, specially the most advance ones (Weeks 8 and after) 
 |          | 28/10 - 03/11 | **RECESO ACADÉMICO**                                         |        |                           |
 |    12    | 04/11 - 10/11 | **Lunes 04/11 - 16:15 hrs**: LSTM, Laboratorio 8 <br/> **Miércoles 06/11 - 16:15 hrs**: Modelos generativos |        | 05/11 T_4 Enunciado       |
 |    13    | 11/11 - 17/11 | **Lunes 11/11 - 16:15 hrs**: Modelos generativos, Laboratorio 9 <br/> **Miércoles 13/11 - 16:15 hrs** : Atención Neuronal |        |                           |
-|    14    | 18/11 - 24/11 | **Lunes 18/11 - 16:15 hrs**: Transformers, Laboratorio 10 <br /> **Miércoles 20/11 - 16:15 hrs**: Técnicas avanzadas: Destilación |        | 19/11 T_5 Enunciado       |
-|    15    | 25/11 - 01/12 | **Lunes 25/11 - 16:15 hrs**: Técnicas avanzadas: Sets y nubes de puntos <br/> **Miércoles 27/11 - 16:15 hrs**: Técnicas avanzadas: Redes de grafos |        |                           |
-| 16 | 02/12 - 08/12 | **Lunes 02/12 - 16:15 hrs**: Técnicas avanzadas: técnicas de grafos         |        | 03/12 T_5 Entrega         |
+|    14    | 18/11 - 24/11 | **Lunes 18/11 - 16:15 hrs**: Transformers, Laboratorio 10 <br /> **Miércoles 20/11 - 16:15 hrs**: Técnicas avanzadas: Modelos de Lenguaje |        | 19/11 T_5 Enunciado       |
+|    15    | 25/11 - 01/12 | **Lunes 25/11 - 16:15 hrs**: Técnicas avanzadas: Modelos de Lenguaje Largos generativos <br/> **Miércoles 27/11 - 16:15 hrs**: Técnicas avanzadas: Modelos Multimodales |        |                           |
+| 16 | 02/12 - 08/12 | **Lunes 02/12 - 16:15 hrs**: Técnicas avanzadas: Efficiency         |        | 03/12 T_5 Entrega         |
 
 
 ## Discord 
