@@ -24,7 +24,7 @@ The content of the classes, specially the most advance ones (Weeks 8 and after) 
 |    6     | 09/09 - 15/09 | **Lunes 09/09 - 16:15 hrs**: Convolución, ideas, Capas convolucionales, Ingredientes CNN <br/> **Miércoles 11/09 - 16:15 hrs**: DIA LIBRE |   [Convolución, ideas](./Slides/7_CNN1.pdf) <br/> [CNN 2](./Slides/8_CNN2.pdf)    | 10/09 T_1 Entrega <br> 10/09 T_2 Enunciado |
 |         | 16/09 - 22/09 | **RECESO ACADÉMICO**                                         |        |                           |
 |   7     | 23/09 - 29/09 | **Lunes 23/09 - 16:15 hrs**: DIA LIBRE <br/> **Miércoles 25/09 - 16:15 hrs**: DIA LIBRE |        |                           |
-|    8     | 30/09 - 06/10 | **Lunes 30/09 - 16:15 hrs**: Arquitecturas CNN y Laboratorio 5 <br/> **Miércoles 02/10 - 16:15 hrs**: DIA LIBRE |    [Arquitecturas CNN](./Slides/9_Classification_Architectures.pdf)    | 01/10 T_2 Entrega         |
+|    8     | 30/09 - 06/10 | **Lunes 30/09 - 16:15 hrs**: Arquitecturas CNN y Laboratorio 5 <br/> **Miércoles 02/10 - 16:15 hrs**: DIA LIBRE |    [Arquitecturas CNN](./Slides_v2/9_CNN_Architectures.pdf)    | 03/10 T_2 Entrega         |
 |    9     | 07/10 - 13/10 | **Lunes 07/10 - 16:15 hrs**: Transfer Learning <br/> **Miércoles 09/10 - 16:15 hrs**: Laboratorio 6 |        | 08/10 T_3 Enunciado       |
 |    10    | 14/10 - 20/10 | **Lunes 14/10 - 16:15 hrs**: Detección de objetos <br/> **Miércoles 16/10 - 16:15 hrs**: Arquitecturas de Detección |        |                           |
 |    11    | 21/10 - 27/10 | **Lunes 21/10 - 16:15 hrs**: Laboratorio 7 <br/> **Miércoles 23/10 - 16:15 hrs**: Modelos secuenciales RNN |        | 22/10 T_3 Entrega         |
