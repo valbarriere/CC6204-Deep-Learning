@@ -3,7 +3,7 @@
 
 Este es el repositorio del curso de Deep Learning del DCC - Uchile.
 
-Clase original de [Ivan Sipiran](https://github.com/ivansipiran).
+Clase original de [Ivan Sipiran](https://github.com/ivansipiran), cambios de [Valentin Barriere](https://dcc.uchile.cl/pregrado/academico/valentin-barriere).
 
 ## Calendario Semestre Primavera 2024
 * Profesor: Valentin Barriere
