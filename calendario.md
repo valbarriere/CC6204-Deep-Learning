@@ -25,11 +25,11 @@ The content of the classes, specially the most advance ones (Weeks 8 and after) 
 |         | 16/09 - 22/09 | **RECESO ACADÉMICO**                                         |        |                           |
 |   7     | 23/09 - 29/09 | **Lunes 23/09 - 16:15 hrs**: DIA LIBRE <br/> **Miércoles 25/09 - 16:15 hrs**: DIA LIBRE |        |                           |
 |    8     | 30/09 - 06/10 | **Lunes 30/09 - 16:15 hrs**: Arquitecturas CNN <br/> **Miércoles 02/10 - 16:15 hrs**: DIA LIBRE |    [Arquitecturas CNN](./Slides/9_CNN_Architectures.pdf)    | 03/10 T_2 Entrega         |
-|    9     | 07/10 - 13/10 | **Lunes 07/10 - 16:15 hrs**: Laboratorio 5 y Laboratorio 6  <br/> Transfer Learning y Laboratorio 7 <br/> **Miércoles 09/10 - 16:15 hrs**: DIA LIBRE |    [Transfer Learning](./Slides/10_TransferLearning.pdf)    | 08/10 T_3 Enunciado       |
-|    10    | 14/10 - 20/10 | **Lunes 14/10 - 16:15 hrs**: Detección de objetos <br/> **Miércoles 16/10 - 16:15 hrs**: Arquitecturas de Detección |        |                           |
-|    11    | 21/10 - 27/10 | **Lunes 21/10 - 16:15 hrs**: Laboratorio 7 <br/> **Miércoles 23/10 - 16:15 hrs**: Modelos secuenciales RNN |        | 22/10 T_3 Entrega         |
+|    9     | 07/10 - 13/10 | **Lunes 07/10 - 16:15 hrs**: Laboratorios 5/6  <br/> Transfer Learning y Laboratorios 7/8 <br/> **Miércoles 09/10 - 16:15 hrs**: DIA LIBRE |    [Transfer Learning](./Slides/10_TransferLearning.pdf)    | 08/10 T_3 Enunciado       |
+|    10    | 14/10 - 20/10 | **Lunes 14/10 - 16:15 hrs**: DIA LIBRE <br/> **Miércoles 16/10 - 16:15 hrs**: DIA LIBRE|        |                           |
+|    11    | 21/10 - 27/10 | **Lunes 21/10 - 16:15 hrs**: Detección de objetos y Arquitecturas de Detección <br/> Laboratorios 9/10  <br/> **Miércoles 23/10 - 16:15 hrs**: Modelos secuenciales RNN |    [Detección de objetos y Arquitecturas de Detección](./Slides/11_ComputerVision.pdf)    | 22/10 T_3 Entrega         |
 |          | 28/10 - 03/11 | **RECESO ACADÉMICO**                                         |        |                           |
-|    12    | 04/11 - 10/11 | **Lunes 04/11 - 16:15 hrs**: LSTM, Laboratorio 8 <br/> **Miércoles 06/11 - 16:15 hrs**: Modelos generativos |        | 05/11 T_4 Enunciado       |
+|    12    | 04/11 - 10/11 | **Lunes 04/11 - 16:15 hrs**: LSTM, Laboratorio 11/12 <br/> **Miércoles 06/11 - 16:15 hrs**: Modelos generativos |        | 05/11 T_4 Enunciado       |
 |    13    | 11/11 - 17/11 | **Lunes 11/11 - 16:15 hrs**: Modelos generativos, Laboratorio 9 <br/> **Miércoles 13/11 - 16:15 hrs** : Atención Neuronal |        |                           |
 |    14    | 18/11 - 24/11 | **Lunes 18/11 - 16:15 hrs**: Transformers, Laboratorio 10 <br /> **Miércoles 20/11 - 16:15 hrs**: Técnicas avanzadas: Modelos de Lenguaje |        | 19/11 T_4 Entrega <br> 19/11 T_5 Enunciado       |
 |    15    | 25/11 - 01/12 | **Lunes 25/11 - 16:15 hrs**: Técnicas avanzadas: Modelos de Lenguaje Largos generativos <br/> **Miércoles 27/11 - 16:15 hrs**: Técnicas avanzadas: Modelos Multimodales |        |                           |
