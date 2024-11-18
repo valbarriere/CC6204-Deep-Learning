@@ -32,12 +32,12 @@ The content of the classes, specially the most advance ones (Weeks 8 and after) 
 |    12    | 04/11 - 10/11 | **Lunes 04/11 - 16:15 hrs**: Atención Neuronal, Laboratorio 12 <br/> **Miércoles 06/11 - 16:15 hrs**: DIA LIBRE |                                |    [Atención Neuronal](./Slides/13_NeuralMachineTranslation_Attention.pdf)    | 08/11 T_4 Enunciado       |
 |    13    | 11/11 - 17/11 | **Lunes 11/11 - 16:15 hrs**: Transformers <br/> **Miércoles 13/11 - 16:15 hrs**: DIA LIBRE | Laboratorio 13/17              |        |                           |
 |    14    | 18/11 - 24/11 | **Lunes 18/11 - 16:15 hrs**: Modelos generativos <br /> **Miércoles 20/11 - 16:15 hrs**: Técnicas avanzadas: Modelos de Lenguaje | Laboratorios 14/15/16         |    [Modelos generativos](./Slides/15_GenerativeModels.pdf)     | 22/11 T_4 Entrega <br> 22/11 T_5 Enunciado       |
-|    15    | 25/11 - 01/12 | **Lunes 25/11 - 16:15 hrs**: Técnicas avanzadas: Modelos de Lenguaje Largos generativos <br/> **Miércoles 27/11 - 16:15 hrs**: Técnicas avanzadas: Modelos Multimodales |                |   [Modelos Multimodales](./Slides/N_Multimodal_Models.pdf)      |                           |
+|    15    | 25/11 - 01/12 | **Lunes 25/11 - 16:15 hrs**: Técnicas avanzadas: Modelos de Lenguaje Largos Generativos <br/> **Miércoles 27/11 - 16:15 hrs**: Técnicas avanzadas: Modelos Multimodales |                |   [Modelos Multimodales](./Slides/N_Multimodal_Models.pdf)      |                           |
 | 16 | 02/12 - 08/12 | **Lunes 02/12 - 16:15 hrs**: Técnicas avanzadas: Efficiency         |                                |        | 06/12 T_5 Entrega         |
 
 ## Laboratorios
 
-The laboratories will no longer be taught in the lecture classes. You will need to run the last ones (13--17) on your own and you can ask questions about them throughout the week, via the discord channel.    
+The laboratories will no longer be taught in the lecture classes. You will need to run the last ones (13--17) on your own and you can ask questions about them throughout the week, via the Discord channel, or in the current/next week lecture class.    
 
 
 ## Discord 
