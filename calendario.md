@@ -31,9 +31,10 @@ The content of the classes, specially the most advance ones (Weeks 8 and after) 
 |          | 28/10 - 03/11 | **RECESO ACADÉMICO**                                         |                                |        |                           |
 |    12    | 04/11 - 10/11 | **Lunes 04/11 - 16:15 hrs**: Atención Neuronal, Laboratorio 12 <br/> **Miércoles 06/11 - 16:15 hrs**: DIA LIBRE |                                |    [Atención Neuronal](./Slides/13_NeuralMachineTranslation_Attention.pdf)    | 08/11 T_4 Enunciado       |
 |    13    | 11/11 - 17/11 | **Lunes 11/11 - 16:15 hrs**: Transformers <br/> **Miércoles 13/11 - 16:15 hrs**: DIA LIBRE | Laboratorio 13/17              |        |                           |
-|    14    | 18/11 - 24/11 | **Lunes 18/11 - 16:15 hrs**: Modelos generativos <br /> **Miércoles 20/11 - 16:15 hrs**: Técnicas avanzadas: Modelos de Lenguaje | Laboratorios 14/15/16         |    [Modelos generativos](./Slides/15_GenerativeModels.pdf) <br> <br> [Modelos de Lenguaje](./Slides/N_introduccion_nlp.pdf)     | 22/11 T_4 Entrega <br> 22/11 T_5 Enunciado       |
+|    14    | 18/11 - 24/11 | **Lunes 18/11 - 16:15 hrs**: Modelos generativos <br /> **Miércoles 20/11 - 16:15 hrs**: Técnicas avanzadas: Modelizacion del Lenguaje <br> (**Invited Speaker**: [Juan Jose Alegria](https://cl.linkedin.com/in/juanjo-alegria))| Laboratorios 14/15/16         |    [Modelos generativos](./Slides/15_GenerativeModels.pdf) <br> <br> [Modelos de Lenguaje](./Slides/N_introduccion_nlp.pdf)     | <s>22/11</s> 29/11 T_4 Entrega <br> <s>22/11</s> 29/11 T_5 Enunciado       |
 |    15    | 25/11 - 01/12 | **Lunes 25/11 - 16:15 hrs**: Técnicas avanzadas: Modelos de Lenguaje Largos Generativos <br/> **Miércoles 27/11 - 16:15 hrs**: Técnicas avanzadas: Modelos Multimodales |                |   [Modelos de Lenguaje Largos Generativos](./Slides/N_Generative_LLMs.pdf) <br> <br> [Modelos Multimodales](./Slides/N_Multimodal_Models.pdf)      |                           |
-| 16 | 02/12 - 08/12 | **Lunes 02/12 - 16:15 hrs**: Técnicas avanzadas: Efficiency         |                                |        | 06/12 T_5 Entrega         |
+| 16 | 02/12 - 08/12 | **Lunes 02/12 - 16:15 hrs**: Técnicas avanzadas: Efficiency         |                                |        |      |
+| 17 | 09/12 - 15/12 |         |                                |        | 13/12 T_5 Entrega         |
 
 ## Laboratorios
 
