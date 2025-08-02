@@ -5,7 +5,7 @@ Este es el repositorio del curso de Deep Learning del DCC - Uchile.
 
 Clase original de [Ivan Sipiran](https://github.com/ivansipiran), cambios de [Valentin Barriere](https://dcc.uchile.cl/pregrado/academico/valentin-barriere).
 
-## Calendario Semestre Primavera 2024
+## Calendario Semestre Primavera 2025
 * Profesor: Valentin Barriere
 * Contenido: [Aca](./calendario.md)
 
@@ -29,7 +29,6 @@ Clase original de [Ivan Sipiran](https://github.com/ivansipiran), cambios de [Va
 * Visión Computacional [Slides](./Slides/11_ComputerVision.pdf)
     * Laboratorio detección de objetos (YoloV3)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/valbarriere/CC6204-Deep-Learning/blob/main/Labs/Lab9_DeteccionObjetosYOLO.ipynb)
     * Laboratorio detección de objetos (SSD)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/valbarriere/CC6204-Deep-Learning/blob/main/Labs/Lab10_SSD.ipynb)
-    * (Extra) Laboratorio entrenamiento detección de objetos con dataset propio[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/valbarriere/CC6204-Deep-Learning/blob/main/Labs/LabExtra1_YOLOv4_PyTorch.ipynb)
 * Modelos para secuencias - Redes Neuronales Recurrentes [Slides](./Slides/12_SequenceModels.pdf)
     * Laboratorio clasificación de reviews [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/valbarriere/CC6204-Deep-Learning/blob/main/Labs/Lab11_Classification_RNN.ipynb)
 * Neural Machine Translation + Atención [Slides](./Slides/13_NeuralMachineTranslation_Attention.pdf)
@@ -41,3 +40,6 @@ Clase original de [Ivan Sipiran](https://github.com/ivansipiran), cambios de [Va
     * Laboratorio Noise Autoencoders [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/valbarriere/CC6204-Deep-Learning/blob/main/Labs/Lab14_NoiseAutoencoder.ipynb)
     * Laboratorio Variational Autoencoder  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/valbarriere/CC6204-Deep-Learning/blob/main/Labs/Lab15_VAE.ipynb)
     * Laboratorio GAN [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/valbarriere/CC6204-Deep-Learning/blob/main/Labs/Lab16_GAN.ipynb)
+* Language Modeling [Slides](./Slides/c12_introducción_nlp.pdf)
+* Generative LLMs [Slides](./Slides/N_Generative_LLMs.pdf)
+* Natural Language Processing [Slides](./Slides/N_Multimodal_Models.pdf)
