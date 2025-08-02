@@ -40,6 +40,6 @@ Clase original de [Ivan Sipiran](https://github.com/ivansipiran), cambios de [Va
     * Laboratorio Noise Autoencoders [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/valbarriere/CC6204-Deep-Learning/blob/main/Labs/Lab14_NoiseAutoencoder.ipynb)
     * Laboratorio Variational Autoencoder  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/valbarriere/CC6204-Deep-Learning/blob/main/Labs/Lab15_VAE.ipynb)
     * Laboratorio GAN [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/valbarriere/CC6204-Deep-Learning/blob/main/Labs/Lab16_GAN.ipynb)
-* Language Modeling [Slides](./Slides/c12_introducción_nlp.pdf)
+* Language Modeling (charla de JJ Alegria) [Slides](./Slides/c12_introducción_nlp.pdf)
 * Generative LLMs [Slides](./Slides/N_Generative_LLMs.pdf)
 * Natural Language Processing [Slides](./Slides/N_Multimodal_Models.pdf)
