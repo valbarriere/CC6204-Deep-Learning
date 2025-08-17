@@ -20,7 +20,7 @@ Clase original de [Ivan Sipiran](https://github.com/ivansipiran), cambios de [Va
 * Inicialización y optimización [Slides](./Slides/5_Initialization_optimization.pdf)
     * Laboratorio [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/valbarriere/CC6204-Deep-Learning/blob/main/Labs/Lab4_optimization.ipynb) 
 * Regularización y Aumentacion de Datos [Slides](./Slides/6_Regularization.pdf)
-* Redes convolucionales [Slides 1](./Slides/7_CNN1.pdf) [Slides 2](./Slides/8_CNN2.pdf)
+* Redes convolucionales [Slides](./Slides/78_CNN.pdf)
     * Laboratorio convolución[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/valbarriere/CC6204-Deep-Learning/blob/main/Labs/Lab5_idea_convolution.ipynb)
     * Laboratorio CNN[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/valbarriere/CC6204-Deep-Learning/blob/main/Labs/Lab6_CNN_MNIST.ipynb)
 * Clasificación de imágenes y Transfer learning [Slides 1](./Slides/9_CNN_Architectures.pdf) [Slides 2](./Slides/10_TransferLearning.pdf)
