@@ -43,3 +43,7 @@ Clase original de [Ivan Sipiran](https://github.com/ivansipiran), cambios de [Va
 * Language Modeling (charla de JJ Alegria) [Slides](./Slides/c12_introducción_nlp.pdf)
 * Generative LLMs [Slides](./Slides/N_Generative_LLMs.pdf)
 * Natural Language Processing [Slides](./Slides/N_Multimodal_Models.pdf)
+
+## CheatSheets 
+
+[Cheatseets](https://github.com/valbarriere/CC5205-Mineria-Datos-Content/tree/main/CheatSheets) sobre Python, Machine Learning and Deep Learning.
