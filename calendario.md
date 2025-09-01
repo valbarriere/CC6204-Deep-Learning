@@ -2,7 +2,7 @@
 
 * Profesor de Cátedra:  [Valentin Barriere](https://valbarriere.github.io)
 * Profesor Auxiliar: Héctor Jiménez
-* Ayudante:  Patricio Yáñez Alarcón, Tello Delaney Fancy, Guillermo Cardenas Cardenas 
+* Ayudante: Patricio Yáñez Alarcón, Tello Delaney Fancy, Guillermo Cardenas Cardenas 
 
 ## Contenidos Inicial Publicados por Semana
 
@@ -13,9 +13,9 @@ El contenido de las clases ha cambiado mucho el año pasado. Van a poder elegir 
 |   1    | 04/08 - 10/08 | **NO HAY CLASE**                                                            |                            |        |                              |
 |   2    | 11/08 - 17/08 | **Miércoles 13/08 - 16:15 hrs**: Introducción (online)                              |                            | [Intro](./Slides/1_Introduction.pdf) |                              |
 |   3    | 18/08 - 24/08 | **Lunes 18/08 - 16:15 hrs**: Perceptron, Gradiente Descendiente <br/> **Miércoles 20/08 - 16:15 hrs**: SGD, Backpropagation, Funciones de activación |            Laboratorio 1                | [Perceptron y SDG](./Slides/2_Perceptron_GD.pdf) <br/> [Backpropagation](./Slides/3_Backpropagation.pdf) <br/> [Encuesta Clases](./Slides/1.1_Encuesta.pdf) |                              |
-|   4    | 25/08 - 31/08 | **Lunes 25/08 - 16:15 hrs**: Multi-clase, softmax <br/> **Miércoles 27/08 - 16:15 hrs**: Inicializacion de pesos, Algoritmos de optimización | Laboratorios 2/3           | [Softmax, Multi-clase y Cross-entropy](./Slides/4_Softmax_CEL.pdf) </br> [Weight initialization](./Slides/5_Initialization_optimization.pdf)| 26/08 T_1 Enunciado           |
-|   5    | 01/09 - 07/09 | **Lunes 01/09 - 16:15 hrs**: Regularizacion <br/> **Miércoles 03/09 - 16:15 hrs**: Convolución, ideas, Capas convolucionales, Ingredientes CNN | Laboratorio 4/5              |  [Regularization](./Slides/6_Regularization.pdf) </br> [Convolución, ideas](./Slides/78_CNN.pdf)  |                              |
-|   6    | 08/09 - 14/09 | **Lunes 08/09 - 16:15 hrs**: Architectures CNN <br/> **Miércoles 10/09 - 16:15 hrs**: Transfer Learning | Laboratorios 6-8              | <br/>  [Arquitecturas CNN](./Slides/9_CNN_Architectures.pdf) </br> [Transfer Learning](./Slides/10_TransferLearning.pdf) | 09/09 T_1 Entrega <br> 11/09 T_2 Enunciado |
+|   4    | 25/08 - 31/08 | **Lunes 25/08 - 16:15 hrs**: Multi-clase, softmax, Inicializacion de pesos  <br/> **Miércoles 27/08 - 16:15 hrs**: Algoritmos de optimización, Regularizacion | Laboratorios 2/3           | [Softmax, Multi-clase y Cross-entropy](./Slides/4_Softmax_CEL.pdf) </br> [Weight initialization](./Slides/5_Initialization_optimization.pdf) </br> [Regularization](./Slides/6_Regularization.pdf) | 26/08 T_1 Enunciado           |
+|   5    | 01/09 - 07/09 | **Lunes 01/09 - 16:15 hrs**: Convolución, ideas, Capas convolucionales, Ingredientes CNN <br/> **Miércoles 03/09 - 16:15 hrs**: DIA LIBRE| Laboratorio 4-6              |   [Convolución, ideas](./Slides/78_CNN.pdf)  |                              |
+|   6    | 08/09 - 14/09 | **Lunes 08/09 - 16:15 hrs**: Architectures CNN <br/> **Miércoles 10/09 - 16:15 hrs**: Transfer Learning | Laboratorios 7/8              | <br/>  [Arquitecturas CNN](./Slides/9_CNN_Architectures.pdf) </br> [Transfer Learning](./Slides/10_TransferLearning.pdf) | 09/09 T_1 Entrega <br> 11/09 T_2 Enunciado |
 |        | 15/09 - 21/09 | **RECESO ACADÉMICO**                                                        |                            |        |                              |
 |   7    | 22/09 - 28/09 | **Lunes 22/09 - 16:15 hrs**: Detección de objetos y Arquitecturas de Detección <br/> **Miércoles 24/09 - 16:15 hrs**: Focus Tarea 2 | Laboratorios 9/10           | <br/> [Detección de objetos](./Slides/11_ComputerVision.pdf) |             |
 |   8    | 29/09 - 05/10 | **Lunes 29/09 - 16:15 hrs**: Modelos secuenciales RNN, LSTM  <br/> **Miércoles 01/10 - 16:15 hrs**: DIA LIBRE|    Laboratorio 11     |  <br/> [Modelos Secuenciales](./Slides/12_SequenceModels.pdf)  | 30/09 T_2 Entrega          |
