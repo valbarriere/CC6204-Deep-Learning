@@ -42,7 +42,7 @@ Clase original de [Ivan Sipiran](https://github.com/ivansipiran), cambios de [Va
     * Tutorial GAN [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/valbarriere/CC6204-Deep-Learning/blob/main/Labs/Lab16_GAN.ipynb)
 * Language Modeling (charla de JJ Alegria) [Slides](./Slides/c12_introducción_nlp.pdf)
 * Generative LLMs [Slides](./Slides/N_Generative_LLMs.pdf)
-* Natural Language Processing [Slides](./Slides/N_Multimodal_Models.pdf)
+* Multimodal Models [Slides](./Slides/N_Multimodal_Models.pdf)
 
 ## CheatSheets 
 
