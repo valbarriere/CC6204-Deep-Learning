@@ -44,6 +44,8 @@ Clase original de [Ivan Sipiran](https://github.com/ivansipiran), cambios de [Va
 * Generative LLMs [Slides](./Slides/N_Generative_LLMs.pdf)
 * Multimodal Models [Slides](./Slides/N_Multimodal_Models.pdf)
 
+* Tutorial [`transformers`](https://colab.research.google.com/drive/1gby8PVa1VziQcaTdzdTw7YjQsfHIfh74?usp=sharing)
+
 ## CheatSheets 
 
 [Cheatseets](https://github.com/valbarriere/CC5205-Mineria-Datos-Content/tree/main/CheatSheets) sobre Python, Machine Learning and Deep Learning.
